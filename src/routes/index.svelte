@@ -10,11 +10,11 @@
 
 <h1>Great success!</h1>
 <p>
-	Count: {count} <button on:click={inc}>Inc</button>
+	Click count: {count} <button on:click={inc}>Inc</button>
 </p>
 
 <figure>
-	<img alt="Success Kid" src="/sapperdemo{successkid}">
+	<img alt="Success Kid" src="{successkid}">
 	<figcaption>Have fun with Sapper!</figcaption>
 </figure>
 

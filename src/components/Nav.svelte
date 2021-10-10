@@ -1,6 +1,5 @@
 <script>
 	export let segment;
-	let baseurl = 'sapperdemo';
 </script>
 
 <style>
